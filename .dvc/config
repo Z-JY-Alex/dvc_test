@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+['remote "my_remote"']
+    url = s3://10.88.30.4:8000/test
+    access_key = 8PGucicKkKHBywCJ
+    secret_key = vTtUPYMpgS48fmswsFEyuTyiW2Dxqxtr
